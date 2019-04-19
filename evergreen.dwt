@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+<style>
+	.navbar{
+		width: 98%;
+		height: 40px;
+		background-color: beige;
+		border:1px solid #020202;
+		margin-top: 0px;
+		
+	}
+	.wrapper{
+		background-color: burlywood;
+		width: 100%;
+		height: auto;
+		
+	}
+	.navbtn a{
+		text-decoration-line: none;
+		
+	}
+	</style>
+
+<body>
+<div class="wrapper">
+	<div class="navbar">
+	<div class="navbtn">
+		<ul>
+			<li><a href="#">LINK 1</a></li>
+			<li><a href="#">LINK 1</a></li>
+			<li><a href="#">LINK 1</a></li>
+		<li><a href="#">LINK 1</a></li>
+		<li><a href="#">LINK 1</a></li>
+		</ul>
+	</div>
+		
+	</div>
+</div>
+
+</body>
+</html>
